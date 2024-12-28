@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e533e9c2.css",
+    "main.js": "/Portfolio/static/js/main.f24ee053.js",
+    "static/media/cafeWebsite.PNG": "/Portfolio/static/media/cafeWebsite.54f2ae9e10964466a200.PNG",
+    "static/media/fitnessWebsite.PNG": "/Portfolio/static/media/fitnessWebsite.967b916467f9c3b789af.PNG",
+    "static/media/taskManagement.jpg": "/Portfolio/static/media/taskManagement.04c45268cb5370245e77.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.e533e9c2.css.map": "/Portfolio/static/css/main.e533e9c2.css.map",
+    "main.f24ee053.js.map": "/Portfolio/static/js/main.f24ee053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e533e9c2.css",
+    "static/js/main.f24ee053.js"
+  ]
+}
